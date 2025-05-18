@@ -114,5 +114,3 @@ MIT License © 2025 Parth Gohil
 
 Feel free to fork the repo and raise PRs to improve functionality, performance, or integrations. Let’s make tweeting smarter!
 
-```
-
