@@ -116,7 +116,3 @@ Feel free to fork the repo and raise PRs to improve functionality, performance, 
 
 ```
 
----
-
-Let me know if you'd like to convert this into a PDF, add GIFs/screenshots, or push it to GitHub with a proper structure.
-```
